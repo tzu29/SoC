@@ -17,6 +17,13 @@
 <details>
   <summary>mask register</summary>
   
-  ![pending register](images/mask.png)
-  ![pending register](images/mask1.png)  
+  ![mask register](images/mask.png)
+  ![mask register](images/mask1.png)  
 </details>
+
+## 2.實作
+- Block Design
+  ![mask register](images/BD.png)
+  
+- DEMO影片:
+https://youtube.com/shorts/Ip44bSBz-KY?si=1r2elz64bko2AGYh
