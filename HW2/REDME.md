@@ -2,5 +2,7 @@
 ## 1.查 Zynq-7020 SoC 技術手冊 UG585-Zynq-7000-Technical Reference Manual
 <details IRQ number>
   <summary>IRQ number</summary>
-  ![IRQ number]()
+  
+  ![IRQ number](HW2/images/IRQ.png)
+  
 </details>
