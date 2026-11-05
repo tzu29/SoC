@@ -17,13 +17,15 @@
 <details>
   <summary>mask register</summary>
   
-  ![mask register](images/mask.png)
-  ![mask register](images/mask1.png)  
+  ![mask](images/mask.png)
+  ![mask](images/mask1.png)  
 </details>
 
 ## 2.實作
-- Block Design
-  ![mask register](images/BD.png)
+- AXI GPIO:Block Design
+  ![BD](images/BD.png)
   
 - DEMO影片:
 https://youtube.com/shorts/Ip44bSBz-KY?si=1r2elz64bko2AGYh
+- IP封裝:Block Design
+  ![IPBD](images/IPBD.png)
